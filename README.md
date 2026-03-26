@@ -3,7 +3,8 @@
 
 **Syracuse University — SOURCE Explorers Program | January 2025 – February 2025**
 
-**Researchers:** Sabrina Smokler, Darika Djusupova, Daniel Johnson, Alexander Delgado  
+**Researchers:** Sabrina Smokler, Darika Djusupova, Daniel Johnson, and Alexander Delgado (me)
+
 **Research Mentors:** Brianna Gillfillian and Bryan Bueno
 
 ---
@@ -106,7 +107,7 @@ DFS was used to enumerate all possible paths from College Place, helping identif
 
 ## About SOURCE Explorers
 
-The [SOURCE Explorers Program](https://source.syr.edu/) at Syracuse University is a faculty-mentored undergraduate research initiative supporting students in applied research across STEM disciplines.
+The [SOURCE Explorers Program](https://surface.syr.edu/source/) at Syracuse University is a faculty-mentored undergraduate research initiative supporting students in applied research across STEM disciplines.
 
 ---
 
